@@ -1,4 +1,4 @@
-# Project name: customer
+# Project name: client
 
 ## Description:
 
